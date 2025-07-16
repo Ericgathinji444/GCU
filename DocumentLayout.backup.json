@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4040B5E6-616E-422D-BDB6-88C0A62667A0}|InventoryApp\\InventoryApp.csproj|c:\\users\\administrator\\source\\repos\\inventoryappsolution\\inventoryapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4040B5E6-616E-422D-BDB6-88C0A62667A0}|InventoryApp\\InventoryApp.csproj|solutionrelative:inventoryapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5250BE-FD35-400E-B106-4E19357C8345}|InventoryAppSolution\\InventoryAppSolution.csproj|c:\\users\\administrator\\source\\repos\\inventoryappsolution\\inventoryappsolution\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5250BE-FD35-400E-B106-4E19357C8345}|InventoryAppSolution\\InventoryAppSolution.csproj|solutionrelative:inventoryappsolution\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5250BE-FD35-400E-B106-4E19357C8345}|InventoryAppSolution\\InventoryAppSolution.csproj|C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\inventoryappsolution\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF5250BE-FD35-400E-B106-4E19357C8345}|InventoryAppSolution\\InventoryAppSolution.csproj|solutionrelative:inventoryappsolution\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4040B5E6-616E-422D-BDB6-88C0A62667A0}|InventoryApp\\InventoryApp.csproj|C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\inventoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4040B5E6-616E-422D-BDB6-88C0A62667A0}|InventoryApp\\InventoryApp.csproj|solutionrelative:inventoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEDA6B-0A40-41FE-AA9F-729C962451A9}|InventoryApp.Business\\InventoryApp.Business.csproj|c:\\users\\administrator\\source\\repos\\inventoryappsolution\\inventoryapp.business\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEDA6B-0A40-41FE-AA9F-729C962451A9}|InventoryApp.Business\\InventoryApp.Business.csproj|solutionrelative:inventoryapp.business\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4040B5E6-616E-422D-BDB6-88C0A62667A0}|InventoryApp\\InventoryApp.csproj|C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\inventoryapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4040B5E6-616E-422D-BDB6-88C0A62667A0}|InventoryApp\\InventoryApp.csproj|solutionrelative:inventoryapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4040B5E6-616E-422D-BDB6-88C0A62667A0}|InventoryApp\\InventoryApp.csproj|C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\inventoryapp\\data\\inventory.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4040B5E6-616E-422D-BDB6-88C0A62667A0}|InventoryApp\\InventoryApp.csproj|solutionrelative:inventoryapp\\data\\inventory.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEDA6B-0A40-41FE-AA9F-729C962451A9}|InventoryApp.Business\\InventoryApp.Business.csproj|c:\\users\\administrator\\source\\repos\\inventoryappsolution\\inventoryapp.business\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEDA6B-0A40-41FE-AA9F-729C962451A9}|InventoryApp.Business\\InventoryApp.Business.csproj|solutionrelative:inventoryapp.business\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryAppSolution\\Form1.cs",
+              "RelativeDocumentMoniker": "InventoryAppSolution\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryAppSolution\\Form1.cs",
+              "RelativeToolTip": "InventoryAppSolution\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:28:59.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryApp\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp\\MainForm.Designer.cs",
+              "RelativeToolTip": "InventoryApp\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:12:54.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "InventoryApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp\\MainForm.cs",
+              "RelativeToolTip": "InventoryApp\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:12:05.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp\\Program.cs",
+              "RelativeToolTip": "InventoryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:10:04.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.txt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp\\Data\\Inventory.txt",
+              "RelativeDocumentMoniker": "InventoryApp\\Data\\Inventory.txt",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp\\Data\\Inventory.txt",
+              "RelativeToolTip": "InventoryApp\\Data\\Inventory.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-13T19:49:13.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp.Business\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "InventoryApp.Business\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp.Business\\InventoryItem.cs",
+              "RelativeToolTip": "InventoryApp.Business\\InventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T19:02:01.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp.Business\\Inventory.cs",
+              "RelativeDocumentMoniker": "InventoryApp.Business\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryApp.Business\\Inventory.cs",
+              "RelativeToolTip": "InventoryApp.Business\\Inventory.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:48:30.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryAppSolution\\Form1.cs",
+              "RelativeDocumentMoniker": "InventoryAppSolution\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\InventoryAppSolution\\InventoryAppSolution\\Form1.cs [Design]",
+              "RelativeToolTip": "InventoryAppSolution\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:41:54.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
